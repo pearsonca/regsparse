@@ -1,0 +1,5 @@
+chromedriver
+digests/*
+instructions/*
+*.log
+.Rproj.user
